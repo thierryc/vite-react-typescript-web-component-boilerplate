@@ -1,0 +1,17 @@
+@import './reset.css';
+@import './variables.css';
+@import './components.css';
+
+body {
+  min-height: 100vh;
+  background: var(--gradient-background);
+}
+
+.list {
+  list-style-position: inside;
+  color: var(--color-text-secondary);
+}
+
+.list li {
+  margin-bottom: var(--spacing-sm);
+}
