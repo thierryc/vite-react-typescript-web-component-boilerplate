@@ -11,6 +11,22 @@ This project provides a boilerplate for creating web components using Vite, Reac
 
 ## Getting Started
 
+## Project Structure 
+
+Organize your code into separate files for HTML, CSS, and JavaScript
+
+```
+src/
+├── components/
+│   ├── my-component.html
+│   ├── my-component.css
+│   ├── my-component.js
+├── main.js
+index.html
+vite.config.js
+```
+
+
 ### Prerequisites
 
 - Node.js (version 18 or later recommended)
