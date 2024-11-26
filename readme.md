@@ -13,7 +13,7 @@ This project provides a boilerplate for creating web components using Vite, Reac
 
 ### Prerequisites
 
-- Node.js (version 14 or later recommended)
+- Node.js (version 18 or later recommended)
 - npm or yarn
 
 ### Installation
@@ -54,14 +54,6 @@ npm run build
 ```
 
 The built files will be in the `dist` directory.
-
-## Project Structure
-
-- `src/`: Source files
-  - `components/`: React components
-  - `web-components/`: Web component definitions
-- `public/`: Static assets
-- `vite.config.ts`: Vite configuration file
 
 ## Contributing
 
