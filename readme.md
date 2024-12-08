@@ -1,4 +1,4 @@
-# Vite React TypeScript Web Component Boilerplate
+# Vite React 19 TypeScript Web Component Boilerplate
 
 This project provides a boilerplate for creating web components using Vite, React, and TypeScript. It offers a modern development setup for building reusable and encapsulated custom elements that can be used across different web applications.
 
