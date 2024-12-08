@@ -79,5 +79,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-Citations:
-[1] https://github.com/thierryc/vite-react-typescript-web-component-boilerplate/tree/main
